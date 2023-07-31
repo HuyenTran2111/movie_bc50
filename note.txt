@@ -1,0 +1,12 @@
+LifeCycle thì class
+
+
+- Function: state thay đổi thì chạy lại hết còn class thì render lại
+Hooks
+
+
+Buổi 11
+
+- Detail movie
+- Auth
+- Guard Routing Admin

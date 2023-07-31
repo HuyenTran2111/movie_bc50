@@ -1,0 +1,13 @@
+//Thay đổi đường dẫn cho đẹp
+
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+
+        "component/*": ["./src/component/*"],
+        "pages/*": ["./src/pages/*"],
+        "utils/*": ["./src/utils/*"]
+      }
+    }
+  }
