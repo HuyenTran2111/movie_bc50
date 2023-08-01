@@ -2,10 +2,10 @@ import Development from "./dev.js";
 import Production from "./prod.js";
 
 const getEnv = (_env) => {
-if(_env){
+if(!_env){
     return _env;
 }
-return "development";
+return "production";
 };
 
 const env = process.env.NODE_ENV;
